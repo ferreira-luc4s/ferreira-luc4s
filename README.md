@@ -17,6 +17,15 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ferreira-luc4s/ferreira-luc4s/output/github-contribution-grid-snake.svg">
 </picture>
 
+### 🐍 Snake dos commits
+
+<!-- Snake escura para quem usa tema dark -->
+![Snake animation dark](https://raw.githubusercontent.com/ferreira-luc4s/ferreira-luc4s/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+<!-- Snake clara para quem usa tema light -->
+![Snake animation light](https://raw.githubusercontent.com/ferreira-luc4s/ferreira-luc4s/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 
 <!--
 usando background white:
