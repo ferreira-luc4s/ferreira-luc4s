@@ -19,10 +19,10 @@ Sou estudante de tecnologia, sempre em busca de aprender coisas novas 🚀
   <img align="center" alt="Lucas-Firebird" height="40" width="40" src="https://raw.githubusercontent.com/ferreira-luc4s/ferreira-luc4s/main/assets/firebird_logo.png">
   
   <!-- SQL Server -->
-  <img align="center" alt="Lucas-SqlServer" height="40" width="40" src="https://www.svgrepo.com/show/303229/sqlserver.svg">
+  <img align="center" alt="Lucas-sqlserver" height="40" width="40" src="https://raw.githubusercontent.com/ferreira-luc4s/ferreira-luc4s/main/assets/sqlserver.png">
   
   <!-- Oracle -->
-  <img align="center" alt="Lucas-Oracle" height="40" width="40" src="https://www.svgrepo.com/show/303215/oracle.svg">
+  <img align="center" alt="Lucas-oracle" height="40" width="40" src="https://raw.githubusercontent.com/ferreira-luc4s/ferreira-luc4s/main/assets/oracle.png">
 </div>
 
 ---
