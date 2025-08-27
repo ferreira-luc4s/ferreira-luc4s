@@ -27,14 +27,6 @@ Sou estudante de tecnologia, sempre em busca de aprender coisas novas 🚀
 
 ---
 
-### 📊 Estatísticas
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ferreira-luc4s&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreira-luc4s&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
 ### 🌐 Onde me encontrar
 <div> 
   <a href="https://www.instagram.com/euu_lucc4s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
