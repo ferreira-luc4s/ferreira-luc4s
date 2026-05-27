@@ -1,10 +1,10 @@
 ## Olá, eu sou o Lucas Ferreira!
 
-Sou estudante de tecnologia, sempre em busca de aprender coisas novas 🚀  
+Sou estudante de tecnologia, sempre em busca de aprender coisas novas 
 
 ---
 
-### 🚀 Algumas tecnologias que uso/estudo
+### Algumas tecnologias que uso/estudo
 <div style="display: inline_block"><br>
   <!-- C# -->
   <img align="center" alt="Lucas-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
