@@ -44,4 +44,4 @@ Sou estudante de tecnologia, sempre em busca de aprender coisas novas
 
 ---
 
-> _"Sempre aprendendo, sempre construindo."_ 🚀
+> _"Sempre aprendendo, sempre construindo."_ 
